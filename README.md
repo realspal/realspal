@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 -----------------------------------------------------------------------------------------------
 
 My GitHub Stats
@@ -8,6 +7,21 @@ My GitHub Stats
 [![Soumyadeep Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realspal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-----------------------------------------------------------------------------------------------
+
+Links
+-----------------------------------------------------------------------------------------------
+
+LinkedIn : https://www.linkedin.com/in/realspal
+
+Twitter : https://www.twitter.com/realspal
+
+Instagram : https://www.instagram.com/realspal
+
+Facebook : https://www.facebook.com/realsoumyadeeppal
+
+GitHub : https://www.github.com/realspal
 
 -----------------------------------------------------------------------------------------------
 <!--
