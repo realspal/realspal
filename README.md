@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I am an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024).
+
 -----------------------------------------------------------------------------------------------
 
 My GitHub Stats
@@ -10,18 +13,35 @@ My GitHub Stats
 
 -----------------------------------------------------------------------------------------------
 
-Links
+Web Dev Project #1 : Jadavpur University Finance Club Website
 -----------------------------------------------------------------------------------------------
 
-LinkedIn : https://www.linkedin.com/in/realspal
+Project Website       : https://finclubju.com
 
-Twitter : https://www.twitter.com/realspal
+Project Github        : https://github.com/finclubju
 
-Instagram : https://www.instagram.com/realspal
+Project Details       : Website created using HTML, CSS and Bootstrap
 
-Facebook : https://www.facebook.com/realsoumyadeeppal
+Project Purpose       : Website for Jadavpur University Finance Club (FinClub JU)
 
-GitHub : https://www.github.com/realspal
+-----------------------------------------------------------------------------------------------
+
+Important Links
+-----------------------------------------------------------------------------------------------
+
+Connect with me on LinkedIn : https://www.linkedin.com/in/realspal
+
+Read my articles on Medium : https://soumyadeeppal.medium.com
+
+Follow me on GitHub : https://www.github.com/realspal
+
+Follow me on Twitter : https://www.twitter.com/realspal
+
+Follow me on Instagram : https://www.instagram.com/realspal
+
+Follow me on Facebook : https://www.facebook.com/realsoumyadeeppal
+
+
 
 -----------------------------------------------------------------------------------------------
 <!--
