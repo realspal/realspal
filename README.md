@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there, I am Soumyadeep <img src="./Hi.gif" width="40px">👋 </h1>
+# Hi there<img src="./Hi.gif" width="50px">
 
-I am an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024).
+I am Soumyadeep, an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024).
 
 -----------------------------------------------------------------------------------------------
 
