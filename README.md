@@ -2,22 +2,45 @@
 
 I am Soumyadeep, an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024).
 
-<div>
+<div> 
  
 [![GitHub realspal](https://img.shields.io/github/followers/realspal?label=follow&style=social)](https://github.com/realspal)
 [![Twitter: Soumyadeep Pal](https://img.shields.io/twitter/follow/realspal?style=social)](https://twitter.com/realspal)
 [![Linkedin: Soumyadeep Pal](https://img.shields.io/badge/-Soumyadeep%20Pal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realspal/)](https://www.linkedin.com/in/realspal/)
 [![Medium Badge](https://img.shields.io/badge/-@SoumyadeepPal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@SoumyadeepPal)](https://medium.com/@SoumyadeepPal)
 [<img src="https://komarev.com/ghpvc/?username=realspal" alt="realspal" />](https://github.com/realspal)
-
+ 
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+<a href="https://linkedin.com/in/realspal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realspal" height="30" width="40" /></a> &nbsp
+<a href="https://github.com/realspal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="realspal" height="30" width="40" /></a> &nbsp
+<a href="https://twitter.com/realspal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realspal" height="30" width="40" /></a> &nbsp
+<a href="https://instagram.com/realspal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realspal" height="30" width="40" /></a> &nbsp
+<a href="https://facebook.com/realsoumyadeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="realspal" height="30" width="40" /></a> &nbsp
+<a href="https://soumyadeeppal.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="realspal" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="Java" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="Bootstrap" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/oracle.svg" alt="OracleDB" width="40" height="40"/> </a>
+ </p>
 
 -----------------------------------------------------------------------------------------------
 
 My GitHub Stats
 -----------------------------------------------------------------------------------------------
 
-[![Soumyadeep Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Soumyadeep Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realspal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -55,10 +78,10 @@ Follow me on Facebook : https://www.facebook.com/realsoumyadeeppal
 
 -----------------------------------------------------------------------------------------------
 <!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues,contribs&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realspal&layout=compact" />
 </a>
 -->
