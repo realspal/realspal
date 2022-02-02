@@ -1,6 +1,18 @@
-# Hi there<img src="./Hi.gif" width="40px">
+# Hi 👋, I'm Soumyadeep Pal
 
-I am Soumyadeep, an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024).
+<!-- <img src="./Hi.gif" width="40px"> -->
+
+I'm a sophomore Information Technology student at Jadavpur University, with an interest in competitive programming, financial markets, current affairs and watching documentaries.
+
+- 🌱 I’m currently exploring ```CP``` and ```Web Dev```.
+- 🔭 I’m working on some ```Web Dev``` projects.
+- 💬 Ask me about ```Java```, ```C++``` and ```DSA```.
+- 🗺️ I'm from ```Kolkata, India```.
+- 📫 Contact me via **[LinkedIn](https://linkedin.com/in/realspal)** or **[Twitter](https://twitter.com/realspal).**
+
+<br/>
+
+<!-- I am an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024). -->
 
 <div> 
  
