@@ -39,10 +39,14 @@ I am Soumyadeep, an undergraduate engineering student from Kolkata, India with a
 My Projects
 -----------------------------------------------------------------------------------------------
 
+<p>
 <a href="https://github.com/finclubju/finclubju.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=finclubju&repo=finclubju.github.io" /></a>
+</p>
+<p>
 <a href="https://github.com/realspal/ChainReaction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realspal&repo=ChainReaction" /></a>
 <a href="https://github.com/realspal/OthelloGame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realspal&repo=OthelloGame" /></a>
-
+</p>
+ 
 -----------------------------------------------------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
