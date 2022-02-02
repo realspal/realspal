@@ -27,9 +27,6 @@ I am Soumyadeep, an undergraduate engineering student from Kolkata, India with a
  
 -----------------------------------------------------------------------------------------------
 
-My GitHub Stats
------------------------------------------------------------------------------------------------
-
 <p align="left"><img align="center" width="53%" height="20%" src="https://github-readme-stats.vercel.app/api?username=realspal&count_private=true&show_icons=true&include_all_commits=true&hide=prs,issues&hide_border=true" />
 <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=realspal&show_icons=true&locale=en&layout=compact&hide_border=true" alt="realspal" /></p>
 <!--
@@ -55,17 +52,6 @@ My Projects
 <a href="https://facebook.com/realsoumyadeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="realspal" height="30" width="40" /></a> &nbsp
 <a href="https://soumyadeeppal.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="realspal" height="30" width="40" /></a>
 </p>
-
-Web Dev Project #1 : Jadavpur University Finance Club Website
------------------------------------------------------------------------------------------------
-
-Project Website       : https://finclubju.com
-
-Project Github        : https://github.com/finclubju
-
-Project Details       : Website created using HTML, CSS and Bootstrap
-
-Project Purpose       : Website for Jadavpur University Finance Club (FinClub JU)
 
 -----------------------------------------------------------------------------------------------
 
