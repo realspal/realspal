@@ -2,6 +2,16 @@
 
 I am Soumyadeep, an undergraduate engineering student from Kolkata, India with an interest in technology, financial markets, current affairs and watching documentaries. I am currently pursuing B.E. in Information Technology from Jadavpur University (2020-2024).
 
+<div>
+ 
+[![GitHub realspal](https://img.shields.io/github/followers/realspal?label=follow&style=social)](https://github.com/realspal)
+[![Twitter: Soumyadeep Pal](https://img.shields.io/twitter/follow/realspal?style=social)](https://twitter.com/realspal)
+[![Linkedin: Soumyadeep Pal](https://img.shields.io/badge/-Soumyadeep%20Pal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realspal/)](https://www.linkedin.com/in/realspal/)
+[![Medium Badge](https://img.shields.io/badge/-@SoumyadeepPal-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@SoumyadeepPal)](https://medium.com/@SoumyadeepPal)
+[<img src="https://komarev.com/ghpvc/?username=realspal" alt="realspal" />](https://github.com/realspal)
+
+</div>
+
 -----------------------------------------------------------------------------------------------
 
 My GitHub Stats
