@@ -37,6 +37,11 @@ My GitHub Stats
 
 -----------------------------------------------------------------------------------------------
 
+<a href="https://github.com/realspal/ChainReaction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realspal&repo=ChainReaction" /></a>
+<a href="https://github.com/realspal/OthelloGame"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=realspal&repo=OthelloGame" /></a>
+<a href="https://github.com/finclubju/finclubju.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=finclubju&repo=finclubju.github.io" /></a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://linkedin.com/in/realspal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="realspal" height="30" width="40" /></a> &nbsp
