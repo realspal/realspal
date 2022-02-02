@@ -34,15 +34,18 @@ I am Soumyadeep, an undergraduate engineering student from Kolkata, India with a
  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/> </a> &nbsp
  <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/oracle.svg" alt="OracleDB" width="40" height="40"/> </a>
  </p>
-
+ 
 -----------------------------------------------------------------------------------------------
 
 My GitHub Stats
 -----------------------------------------------------------------------------------------------
 
-[![Soumyadeep Pal's GitHub stats](https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"><img align="center" width="53%" height="20%" src="https://github-readme-stats.vercel.app/api?username=realspal&count_private=true&show_icons=true&include_all_commits=true&hide=prs,issues&hide_border=true" />
+<img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=realspal&show_icons=true&locale=en&layout=compact&hide_border=true" alt="realspal" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realspal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"><img align="center" width="53%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=realspal&show_icons=true&count_private=true&locale=en&hide_border=true" alt="realspal" /></p>
+
+
 
 -----------------------------------------------------------------------------------------------
 
@@ -59,32 +62,15 @@ Project Purpose       : Website for Jadavpur University Finance Club (FinClub JU
 
 -----------------------------------------------------------------------------------------------
 
-Important Links
------------------------------------------------------------------------------------------------
-
-Connect with me on LinkedIn : https://www.linkedin.com/in/realspal
-
-Read my articles on Medium : https://soumyadeeppal.medium.com
-
-Follow me on GitHub : https://www.github.com/realspal
-
-Follow me on Twitter : https://www.twitter.com/realspal
-
-Follow me on Instagram : https://www.instagram.com/realspal
-
-Follow me on Facebook : https://www.facebook.com/realsoumyadeeppal
-
-
-
------------------------------------------------------------------------------------------------
 <!--
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues,contribs&count_private=true&show_icons=true" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realspal&layout=compact" />
-</a>
+
+[![Soumyadeep Pal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=realspal&hide=prs,issues&count_private=true&show_icons=true)]()
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realspal&layout=compact)]()
+
 -->
+
+
 <!--
 **realspal/realspal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
