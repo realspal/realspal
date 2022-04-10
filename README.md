@@ -31,6 +31,7 @@ I'm a sophomore Information Technology student at Jadavpur University, with an i
  <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="Java" width="40" height="40"/> </a> &nbsp
  <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" width="40" height="40"/> </a> &nbsp
  <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" width="40" height="40"/> </a> &nbsp
+ <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" width="40" height="40"/> </a> &nbsp
  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> &nbsp
  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a> &nbsp
  <a> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="JavaScript" width="40" height="40"/> </a> &nbsp
