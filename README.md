@@ -4,7 +4,7 @@
 
 I'm a sophomore Information Technology student at Jadavpur University, with an interest in competitive programming, financial markets, current affairs and watching documentaries.
 
-- 🌱 I’m currently exploring ```CP``` and ```Web Dev```.
+- 🌱 I’m currently exploring ```Web Dev```.
 - 🔭 I’m working on some ```Web Dev``` projects.
 - 💬 Ask me about ```Java```, ```C++``` and ```DSA```.
 - 🗺️ I'm from ```Kolkata, India```.
