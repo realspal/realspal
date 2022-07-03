@@ -44,8 +44,7 @@ I'm a sophomore Information Technology student at Jadavpur University, with an i
 
 <p align="left"><img align="center" width="53%" height="20%" src="https://github-readme-stats.vercel.app/api?username=realspal&count_private=true&show_icons=true&include_all_commits=true&hide=prs,issues&hide_border=true" />
 <img align="center" width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=realspal&show_icons=true&locale=en&layout=compact&hide_border=true" alt="realspal" /></p>
-<!--
-<p align="left"><img align="center" width="53%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=realspal&show_icons=true&count_private=true&locale=en&hide_border=true" alt="realspal" /></p> -->
+<!-- <p align="left"><img align="center" width="53%" height="20%" src="https://github-readme-streak-stats.herokuapp.com/?user=realspal&show_icons=true&count_private=true&locale=en&hide_border=true" alt="realspal" /></p> -->
 
 -----------------------------------------------------------------------------------------------
 
