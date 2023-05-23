@@ -2,7 +2,7 @@
 
 <!-- <img src="./Hi.gif" width="40px"> -->
 
-I'm a sophomore Information Technology student at Jadavpur University, with an interest in competitive programming, financial markets, current affairs and watching documentaries.
+I'm an Information Technology student at Jadavpur University, with an interest in application development, financial markets, current affairs and watching documentaries.
 
 - 🌱 I’m currently exploring ```Web Dev```.
 - 🔭 I’m working on some ```Web Dev``` projects.
